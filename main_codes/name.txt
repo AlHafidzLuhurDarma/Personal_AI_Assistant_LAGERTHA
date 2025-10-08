@@ -1,0 +1,10 @@
+The name L.A.G.E.R.T.H.A is stands for (Logic Algorithm Generator Enhancer for Response Technology Haptic Assistant)
+
+-Logic: The use of reasoning and rules to make decisions and solve problems, 	often used in artificial intelligence programming.
+-Algorithm: A set of instructions given to a computer or machine to perform a 	    specific task or solve a problem.
+-Generator: A device that converts mechanical energy into electrical energy.
+-Enhancer: A improving concept or an idea
+-Response: The action or behavior of a robot or system in reaction to stimuli 	    or inputs.
+-Technology: The branch of knowledge that deals with the creation and use of 	     technical means and their 
+-Haptic: Referring to the sense of touch, and specifically to the use of 	 touch feedback in human-robot 
+-Assistant: well, assistant!!
